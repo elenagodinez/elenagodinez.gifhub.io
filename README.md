@@ -15,7 +15,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen** : Este proyecto trata sobre una corta historia interactiva en la que, junto a los personajes de esta mítica serie de televisión, 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego 
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
