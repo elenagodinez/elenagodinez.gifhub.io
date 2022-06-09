@@ -1,19 +1,19 @@
 # cmi22
 
-## (Nombre del proyecto)
+## (Friends: The Game)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Friends: The Game
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Elena Godínez Robles
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto trata sobre una corta historia interactiva en la que, junto a los personajes de esta mítica serie de televisión, 
 
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
