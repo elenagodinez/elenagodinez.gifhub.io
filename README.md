@@ -13,7 +13,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Elena Godínez Robles
 
-**Resumen** : Este proyecto trata sobre una corta historia interactiva en la que, junto a los personajes de esta mítica serie de televisión, 
+**Resumen** : Este proyecto trata sobre una corta historia interactiva en la que, junto a los personajes de esta mítica serie de televisión, tendremos que resolver diversos juegos.
 
 **Estilo/género:**  Juego 
 
@@ -25,11 +25,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 128KB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 10/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
